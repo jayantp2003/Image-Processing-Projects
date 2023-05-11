@@ -12,5 +12,5 @@ Use your terminal to install the opencv library using pip.
 Hope you enjoy.😊
 
 ```sh
-
+  pip install opencv-python
 ```
